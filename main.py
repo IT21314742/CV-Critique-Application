@@ -1,2 +1,2 @@
 def main():
-    print("Hello from cv-critique-applica
+    print("Hello from cv-critique-appli

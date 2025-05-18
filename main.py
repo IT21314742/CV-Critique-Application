@@ -2,4 +2,4 @@ def main():
     print("Hello from cv-critique-application!")
 
 
-if __name__ == "__ma
+if __name__ == "__

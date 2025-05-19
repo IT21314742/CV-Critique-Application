@@ -8,4 +8,4 @@ from dotenv import load_dotenv
 
 load_dotenv
 
-st.set_page_config()
+st.set_page_config(page)

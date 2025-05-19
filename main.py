@@ -11,5 +11,5 @@ load_dotenv
 st.set_page_config(page_title="AI Resume Analyzer", page_icon="📃", layout="centered")
 
 st.title("AI Resume Analyzer")
-st.markdown()
+st.markdown("Upload your resume and get AI-powered feedback tailored to your needs!")
 

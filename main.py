@@ -13,7 +13,7 @@ st.set_page_config(page_title="AI Resume Analyzer", page_icon="📃", layout="ce
 st.title("AI Resume Analyzer")
 st.markdown("Upload your resume and get AI-powered feedback tailored to your needs!")
 
-
+OPENAI_API_KEY = os.getenv
 
 
 

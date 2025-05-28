@@ -16,7 +16,7 @@ st.markdown("Upload your resume and get AI-powered feedback tailored to your nee
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 uploaded_file = st.file_uploader("upload your resume (PDF or TXT)", type=["pdf", "txt"])
-
+job_role = st.text_input("Enter the job role you're targeting (optional)")
 
 
 

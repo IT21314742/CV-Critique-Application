@@ -37,3 +37,4 @@ uploaded_file = st.file_uploader("upload your resume (PDF or TXT)", type=["pdf",
 
 
 
+

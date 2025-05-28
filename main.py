@@ -24,7 +24,7 @@ def extract_text_from_pdf(pdf_file):
     pdf_reader = PyPDF2.PdfReader(pdf_file)
     text = ""
     for page in pdf_reader.pages:
-        text += page.extract_text() +
+        text += page.extract_text() + "\n"
 
 def extract_text_from_file(uploded_file):
     if uploaded_file.type == "application/pdf":

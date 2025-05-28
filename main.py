@@ -20,7 +20,8 @@ job_role = st.text_input("Enter the job role you're targeting (optional)")
 
 analyze = st.button("Analyze resume")
 
-def extract_text_from_pdf(pdf_)
+def extract_text_from_pdf(pdf_file):
+    pdf_reader = 
 
 def extract_text_from_file(uploded_file):
     if uploaded_file.type == "application/pdf":

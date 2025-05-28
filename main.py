@@ -40,3 +40,5 @@ analyze = st.button("Analyze resume")
 
 
 
+
+

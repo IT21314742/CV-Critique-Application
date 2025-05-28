@@ -20,7 +20,7 @@ job_role = st.text_input("Enter the job role you're targeting (optional)")
 
 analyze = st.button("Analyze resume")
 
-def extract_text_from_file
+def extract_text_from_file(uploded_file)
 
 
 if analyze and uploaded_file:

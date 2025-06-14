@@ -29,7 +29,7 @@ def extract_text_from_pdf(pdf_file):
 
 def extract_text_from_file(uploded_file):
     if uploaded_file.type == "application/pdf":
-        return
+        return extract_text_from_pdf(io.BytesIO(uploaded_file.read()))
 
 
 if analyze and uploaded_file:

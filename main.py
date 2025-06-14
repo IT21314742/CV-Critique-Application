@@ -39,6 +39,7 @@ if analyze and uploaded_file:
         
         if not file_content.strip():
             st.error("File does not have any Content...")
+            st.stop()
 
 
                     

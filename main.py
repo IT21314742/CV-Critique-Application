@@ -38,7 +38,7 @@ if analyze and uploaded_file:
         file_content = extract_text_from_file(uploded_file)
         
         if not file_content.strip():
-            st.error()
+            st.error("File does not have any Content")
 
 
                     

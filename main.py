@@ -35,7 +35,7 @@ def extract_text_from_file(uploded_file):
 
 if analyze and uploaded_file:
     try:
-        file_content = 
+        file_content = extract_text_from_file(uploded_file)
 
 
                     

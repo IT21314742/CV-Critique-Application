@@ -64,7 +64,7 @@ if analyze and uploaded_file:
             max_tokens=1000
         )
         st.markdown("### Analysis results")
-        st.markdown
+        st.markdown()
 
                     
                     

@@ -46,6 +46,7 @@ if analyze and uploaded_file:
         1. Content clarity and impact
         2. Skills presentation
         3. Experience description
+        4. Specific improvements for 
 
                     
                     

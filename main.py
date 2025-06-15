@@ -51,7 +51,7 @@ if analyze and uploaded_file:
         Resume Content:
         {file_content}
         
-        Please provide your analysis in a clear, 
+        Please provide your analysis in a clear, structured format with 
 
                     
                     

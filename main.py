@@ -57,7 +57,7 @@ if analyze and uploaded_file:
         response = client.completions.create(
             model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content":}
+                {"role": "system", "content": }
             ]
         )
 

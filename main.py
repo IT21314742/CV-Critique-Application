@@ -67,7 +67,7 @@ if analyze and uploaded_file:
         st.markdown(response.choices[0].message.content)
         
     except Exception as e:
-        st.error(f"An error occured")
+        st.error(f"An error occured:  ")
 
                     
                     

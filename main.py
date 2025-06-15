@@ -52,6 +52,7 @@ if analyze and uploaded_file:
         {file_content}
         
         Please provide your analysis in a clear, structured format with specific recommendations."""
+        
 
                     
                     

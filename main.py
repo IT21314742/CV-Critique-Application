@@ -59,7 +59,9 @@ if analyze and uploaded_file:
             messages=[
                 {"role": "system", "content": "You're an expert resume reviewer with years of experience in HR and recruitment."}
                 {"role": "user", "content": prompt}
-            ]
+            ],
+            temperature=0.7,
+            max_tokens=1000
         )
 
                     

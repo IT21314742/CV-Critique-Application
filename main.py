@@ -41,7 +41,7 @@ if analyze and uploaded_file:
             st.error("File does not have any Content...")
             st.stop()
             
-        
+        promt = f"""Please analyze this resume and provide costructive feedback.
 
 
                     

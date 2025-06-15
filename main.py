@@ -65,6 +65,7 @@ if analyze and uploaded_file:
         )
         st.markdown("### Analysis results")
         st.markdown(response.choices[0].message.content)
+        
 
                     
                     

@@ -42,7 +42,7 @@ if analyze and uploaded_file:
             st.stop()
             
         promt = f"""Please analyze this resume and provide costructive feedback.
-
+        focus on the following aspects.
 
                     
                     

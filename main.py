@@ -48,6 +48,7 @@ if analyze and uploaded_file:
         3. Experience description
         4. Specific improvements for  {job_role if job_role else 'general Job Applications'}
         
+        
 
                     
                     

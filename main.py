@@ -55,7 +55,7 @@ if analyze and uploaded_file:
         
         client = OpenAI(api_key=OPENAI_API_KEY)
         
-    
+
 
                     
                     

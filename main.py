@@ -45,6 +45,7 @@ if analyze and uploaded_file:
         focus on the following aspects:
         1. Content clarity and impact
         2. Skills presentation
+        3. Experience description
 
                     
                     

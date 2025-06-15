@@ -50,6 +50,7 @@ if analyze and uploaded_file:
         
         Resume Content:
         {file_content}
+        
 
                     
                     

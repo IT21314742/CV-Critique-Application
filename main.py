@@ -49,6 +49,7 @@ if analyze and uploaded_file:
         4. Specific improvements for  {job_role if job_role else 'general Job Applications'}
         
         Resume Content:
+        {file_content}
 
                     
                     

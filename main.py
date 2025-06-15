@@ -54,7 +54,7 @@ if analyze and uploaded_file:
         Please provide your analysis in a clear, structured format with specific recommendations."""
         
         client = OpenAI(api_key=OPENAI_API_KEY)
-        response = 
+        response = client.completions
 
                     
                     

@@ -63,7 +63,7 @@ if analyze and uploaded_file:
             temperature=0.7,
             max_tokens=1000
         )
-        st.
+        st.markdown()
 
                     
                     

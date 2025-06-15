@@ -41,7 +41,7 @@ if analyze and uploaded_file:
             st.error("File does not have any Content...")
             st.stop()
             
-        promt = f"""Please analyze this resume and provide costructive feedback.
+        prompt = f"""Please analyze this resume and provide costructive feedback.
         focus on the following aspects:
         1. Content clarity and impact
         2. Skills presentation
@@ -51,7 +51,7 @@ if analyze and uploaded_file:
         Resume Content:
         {file_content}
         
-        Please provide your analysis in a clear, structured format with specific recommendations
+        Please provide your analysis in a clear, structured format with specific recommendations."""
 
                     
                     

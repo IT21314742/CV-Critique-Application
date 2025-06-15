@@ -56,6 +56,7 @@ if analyze and uploaded_file:
         client = OpenAI(api_key=OPENAI_API_KEY)
         response = client.completions.create(
             model="gpt-4o-mini",
+            messages=
         )
 
                     
